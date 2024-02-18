@@ -1,4 +1,4 @@
-# ✨ About Me ✨
+## ✨ About Me ✨
 🍀 Minjeong Seo
 
 🏫 Sejong Univ.
@@ -8,7 +8,7 @@
 <br/>
 <br/>
 
-# 📚 Stacks 📚
+## 📚 Stacks 📚
 #### 📌 Good at
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -33,14 +33,14 @@
 <br/>
 <br/>
 
-# 💻 Blog 💻
+## 💻 Blog 💻
 ![tistory](https://img.shields.io/badge/tistory-E95420?style=for-the-badge&logo=tistory&logoColor=white)
 
 
 <br/>
 <br/>
 
-# 🔧 Git 🔧
+## 🔧 Git 🔧
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseom-j&count_bg=%23C6D8B8&title_bg=%23266D37&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <img src="https://github-readme-stats.vercel.app/api?username=seom-j&theme=vue&show_icons=true"/></a>
