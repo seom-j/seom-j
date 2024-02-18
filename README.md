@@ -33,6 +33,22 @@
 <br/>
 <br/>
 
+## 🏆 Awards 🏆
+- 세종대학교 2021 학습경험공유 UCC 공모전 협력상
+
+- 세종대학교 2021 대양휴머니티칼리지 주관 <청춘입문토론대회> 입상
+
+- 강동구청 2022 표창장
+  
+- 세종대학교 2023 생명과학대학 경시대회 최우수상
+
+- 세종대학교 2023 컴퓨터공학과 학술제 장려상
+
+- KDATA 2023 데이터 청년인재 양성 사업 프로젝트 평가 대상
+
+<br/>
+<br/>
+
 ## 💻 Blog 💻
 ![tistory](https://img.shields.io/badge/tistory-E95420?style=for-the-badge&logo=tistory&logoColor=white)
 
