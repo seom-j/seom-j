@@ -1,9 +1,9 @@
 # 📌 About Me
-NAME : Minjeong Seo
+🖐️ NAME : Minjeong Seo
 
-UNIV : Sejong Univ.
+🏫 UNIV : Sejong Univ.
 
-MAJOR : Computer Engineering
+👩‍🎓 MAJOR : Computer Engineering
 
 
 # 📌 Stacks
