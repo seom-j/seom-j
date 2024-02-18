@@ -1,3 +1,4 @@
+<p align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=capsule%20render&fontSize=90)
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
@@ -33,6 +34,7 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseom-j&count_bg=%23C6D8B8&title_bg=%23266D37&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+</p>
 
 <!--
 **seom-j/seom-j** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
