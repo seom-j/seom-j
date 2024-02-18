@@ -1,4 +1,4 @@
-# About Me
+# 📌 About Me
 NAME : Minjeong Seo
 
 UNIV : Sejong Univ.
@@ -6,7 +6,7 @@ UNIV : Sejong Univ.
 MAJOR : Computer Engineering
 
 
-# Studying
+# 📌 Stacks
 #### Good at
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -28,8 +28,8 @@ MAJOR : Computer Engineering
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
-# Blog
-![tistory]
+# 📌 Blog
+![tistory](https://img.shields.io/badge/tistory-E95420?style=for-the-badge&logo=tistory&logoColor=white)
 
 <img src="https://github-readme-stats.vercel.app/api?username=seom-j&theme=vue&show_icons=true"/></a>
 
