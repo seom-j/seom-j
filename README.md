@@ -54,7 +54,7 @@
 <br/>
 <br/>
 
-## 💻 Blog 💻
+## [💻](https://seom-j.tistory.com/) Blog [💻](https://seom-j.tistory.com/)
 ![tistory](https://img.shields.io/badge/tistory-E95420?style=for-the-badge&logo=tistory&logoColor=white)
 
 
