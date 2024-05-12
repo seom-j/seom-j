@@ -2,25 +2,22 @@
 
 🍀 Minjeong Seo
 
-🏫 Sejong Univ.
+🏫 Sejong University (Bachelor Student, Mar. 2021 ~)
 
-💻 Computer Engineering
+💻 Department of Computer Science and Engineering
 
 <br/>
 <br/>
 
 ## 📚 Stacks 📚
 #### 📌 Good at
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
 #### 📌 Once I've used
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -44,17 +41,23 @@
 <br/>
 
 ## 🏆 Awards 🏆
-- 세종대학교 2023 컴퓨터공학과 학술제 장려상
-
-- KDATA 2023 데이터 청년인재 양성 사업 프로젝트 평가 우수상
-
-- 세종대학교 2023 생명과학대학 경시대회 최우수상
+- Computer Engineering Academic Festival Participation Award, Sejong University, Korea (Dec.
+2023)
   
-- 강동구청 2022 표창장
+- SQL Developer Certification, Korea Data Agency, Korea (Oct. 2023)
 
-- 세종대학교 2021 대양휴머니티칼리지 주관 <청춘입문토론대회> 입상
+- Data Youth Campus Excellence Award, The Korean Research Association for the Business
+Education, Korea (Aug. 2023)
 
-- 세종대학교 2021 학습경험공유 UCC 공모전 협력상
+- University of Life Sciences Academic Festival Grand Prize, Sejong University, Korea (Mar. 2023)
+
+- Certificate of Commendation, Gangdong-gu Office, Korea (Dec. 2022)
+
+- Youth Introduction Debate Competition Winner, Sejong University, Korea (Jun. 2021)
+
+- Learning Experience Sharing UCC Contest Collaboration Award, Sejong University, Korea (Dec.
+2021)
+
 
 
   
@@ -62,16 +65,15 @@
 <br/>
 
 ## 🎆 Portfolio 🎆
-### [📰](https://spotted-lillipilli-186.notion.site/s-Portfolio-fa2b396706e24c1c9cd9d4dfc1e8f223)[📰](https://spotted-lillipilli-186.notion.site/s-Portfolio-fa2b396706e24c1c9cd9d4dfc1e8f223)[📰](https://spotted-lillipilli-186.notion.site/s-Portfolio-fa2b396706e24c1c9cd9d4dfc1e8f223)[📰](https://spotted-lillipilli-186.notion.site/s-Portfolio-fa2b396706e24c1c9cd9d4dfc1e8f223)
+### [🖱️](https://spotted-lillipilli-186.notion.site/s-Portfolio-fa2b396706e24c1c9cd9d4dfc1e8f223)[🖱️](https://spotted-lillipilli-186.notion.site/s-Portfolio-fa2b396706e24c1c9cd9d4dfc1e8f223)[🖱️](https://spotted-lillipilli-186.notion.site/s-Portfolio-fa2b396706e24c1c9cd9d4dfc1e8f223)[🖱️](https://spotted-lillipilli-186.notion.site/s-Portfolio-fa2b396706e24c1c9cd9d4dfc1e8f223)
 
 
 
 <br/>
 <br/>
 
-## [💻](https://seom-j.tistory.com/) Blog [💻](https://seom-j.tistory.com/)
-![tistory](https://img.shields.io/badge/tistory-E95420?style=for-the-badge&logo=tistory&logoColor=white)
-
+## 💻 Blog 💻
+### [🖱️](https://seom-j.tistory.com/)[🖱️](https://seom-j.tistory.com/)[🖱️](https://seom-j.tistory.com/)[🖱️](https://seom-j.tistory.com/)
 
 <br/>
 <br/>
@@ -79,7 +81,6 @@
 ## 🔧 Git 🔧
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseom-j&count_bg=%23C6D8B8&title_bg=%23266D37&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<img src="https://github-readme-stats.vercel.app/api?username=seom-j&theme=vue&show_icons=true"/></a>
 
 
 
