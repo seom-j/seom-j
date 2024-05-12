@@ -41,13 +41,11 @@
 <br/>
 
 ## 🏆 Awards 🏆
-- Computer Engineering Academic Festival Participation Award, Sejong University, Korea (Dec.
-2023)
+- Computer Engineering Academic Festival Participation Award, Sejong University, Korea (Dec. 2023)
   
 - SQL Developer Certification, Korea Data Agency, Korea (Oct. 2023)
 
-- Data Youth Campus Excellence Award, The Korean Research Association for the Business
-Education, Korea (Aug. 2023)
+- Data Youth Campus Excellence Award, The Korean Research Association for the Business Education, Korea (Aug. 2023)
 
 - University of Life Sciences Academic Festival Grand Prize, Sejong University, Korea (Mar. 2023)
 
@@ -55,8 +53,7 @@ Education, Korea (Aug. 2023)
 
 - Youth Introduction Debate Competition Winner, Sejong University, Korea (Jun. 2021)
 
-- Learning Experience Sharing UCC Contest Collaboration Award, Sejong University, Korea (Dec.
-2021)
+- Learning Experience Sharing UCC Contest Collaboration Award, Sejong University, Korea (Dec. 2021)
 
 
 
