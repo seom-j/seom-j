@@ -42,7 +42,13 @@
 <br/>
 
 ## 🏆 Awards 🏆
-- Computer Engineering Academic Festival Participation Award, Sejong University, Korea (Dec. 2023)
+- Engineering Education Certification Student Portfolio Contest Bronze Award, Sejong University, Korea (Jun. 2024)
+
+- Computer Engineering Academic Festival 2nd place, Sejong University, Korea (Jun. 2024)
+
+- Creative Design Contest Grand Prize, Sejong University, Korea (Jun.2024)
+
+- Computer Engineering Academic Festival 3rd place, Sejong University, Korea (Dec. 2023)
   
 - SQL Developer Certification, Korea Data Agency, Korea (Oct. 2023)
 
@@ -57,21 +63,11 @@
 - Learning Experience Sharing UCC Contest Collaboration Award, Sejong University, Korea (Dec. 2021)
 
 
-
-  
-<br/>
-<br/>
-
-## 🎆 Portfolio 🎆
-### [🖱️](https://spotted-lillipilli-186.notion.site/s-Portfolio-fa2b396706e24c1c9cd9d4dfc1e8f223)[🖱️](https://spotted-lillipilli-186.notion.site/s-Portfolio-fa2b396706e24c1c9cd9d4dfc1e8f223)[🖱️](https://spotted-lillipilli-186.notion.site/s-Portfolio-fa2b396706e24c1c9cd9d4dfc1e8f223)[🖱️](https://spotted-lillipilli-186.notion.site/s-Portfolio-fa2b396706e24c1c9cd9d4dfc1e8f223)
-
-
-
 <br/>
 <br/>
 
 ## 💻 Blog 💻
-### [🖱️](https://seom-j.tistory.com/)[🖱️](https://seom-j.tistory.com/)[🖱️](https://seom-j.tistory.com/)[🖱️](https://seom-j.tistory.com/)
+### [🖱️🖱️🖱️🖱️](https://seom-j.tistory.com/)
 
 <br/>
 <br/>
